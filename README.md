@@ -43,6 +43,7 @@
 🔹 Integração de CI/CD com GitHub Actions e Jenkins.
 
 ## 📌 Projetos em Destaque
+🔹 [ListaComprasAPI](https://github.com/herculesherculano/listacomprasAPI) - API REST desenvolvida em **Java** com **Spring Boot** para gerenciamento de lista de compras.
 🔹 [ControleEstoqueAPI](https://github.com/herculesherculano/ControleEstoqueAPI) - API REST para gerenciamento de estoque usando **Java + Spring Boot + PostgreSQL**  
   
 
