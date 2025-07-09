@@ -1,16 +1,19 @@
 # 👋 Olá, eu sou Hércules Herculano!
 
 ## 💻 Sobre mim
-🎓 Bacharel em Computação, com 13 anos de experiência em manutenção de computadores e 4 anos no ensino de programação em cursos técnicos.
 
-💡 Desenvolvedor backend focado em Java e Spring Boot, com experiência na criação de APIs REST e persistência de dados com JPA/Hibernate.
+Sou um profissional com 17 anos de experiência em tecnologia e graduado em Ciência da Computação. Após uma carreira consolidada em suporte técnico e como professor de programação, estou a direcionar a minha paixão por resolver problemas para o desenvolvimento de software. O meu foco é construir aplicações robustas, escaláveis e bem documentadas com o ecossistema Java e Spring.
 
-🚀 Profissional dedicado, proativo, sempre buscando aprimorar minhas habilidades em desenvolvimento de software, banco de dados e boas práticas de desenvolvimento.
+👨‍🏫 Background Único: A experiência como professor permitiu que eu desenvolvesse uma forte capacidade para comunicar ideias técnicas de forma clara e de compartilhar conhecimento com a equipe.
+
+🛠️ Foco em Soluções: Anos em suporte técnico ensinaram-me a diagnosticar problemas complexos e a entregar soluções eficientes.
+
+🚀 Objetivo Atual: À procura de uma oportunidade como Desenvolvedor Java Júnior para aplicar os meus conhecimentos e continuar a aprender num ambiente de equipa dinâmico.
  
 ## Conecte-se comigo
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herculesbruno/)
+  - 🔗 [LinkedIn](https://www.linkedin.com/in/herculesbruno/)
   
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/herculesherculano/)
+  - 🔗 [GitHub](https://github.com/herculesherculano/)
 
 
 ## Habilidades
@@ -43,9 +46,9 @@
 🔹 Integração de CI/CD com GitHub Actions e Jenkins.
 
 ## 📌 Projetos em Destaque
-🔹 [ListaComprasAPI](https://github.com/herculesherculano/listacomprasAPI) - API REST desenvolvida em **Java** com **Spring Boot** para gerenciamento de lista de compras.
+🔗 [ListaComprasAPI](https://github.com/herculesherculano/listacomprasAPI) - API REST para gerenciamento de lista de compras com categorização automática via IA, desenvolvida em Java com    Spring Boot.
 
-🔹 [ControleEstoqueAPI](https://github.com/herculesherculano/ControleEstoqueAPI) - API REST para gerenciamento de estoque usando **Java + Spring Boot + PostgreSQL**  
+🔗 [ControleEstoqueAPI](https://github.com/herculesherculano/ControleEstoqueAPI) - API REST para gerenciamento de estoque usando Java, Spring Boot e PostgreSQL.
   
 
 ## 📊 GitHub Stats  
